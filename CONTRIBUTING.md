@@ -83,9 +83,9 @@ link to the original work.
 
 ### Grant of license
 
-cilib is licensed under the [MIT License]. Opening a pull
+cilib is licensed under the [BSD 2-Clause License]. Opening a pull
 request signifies your consent to license your contributions under the
-MIT License.
+BSD 2-Clause License.
 
 ## Building the Community
 
@@ -128,7 +128,7 @@ This document is heavily based on the [Cats contributor's guide].
 [docs subproject]: https://github.com/cirg-up/cilib/tree/series/2.0.x/docs/
 [series-2.0.x]: https://github.com/cirg-up/cilib/tree/series/2.0.x
 [series-1.0.x]: https://github.com/cirg-up/cilib/tree/series/1.0.x
-[MIT License]: License here
+[BSD 2-Clause License]: http://opensource.org/licenses/BSD-2-Clause
 [add yourself as an adopter]: https://github.com/cirg-up/cilib/edit/master/docs/src/hugo/content/adopters.md
 [adopters list]: http://cirg-up.github.io/cilib/adopters/
 [GitHub issues]: https://github.com/cirg-up/cilib/issues
